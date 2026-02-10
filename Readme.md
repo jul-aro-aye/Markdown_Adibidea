@@ -2,6 +2,8 @@
 
 ## Aurkibidea
 
+---
+
 ### Aurkezpena
 Erdilari moduan jokatzen du. Beasainen harrobian hazi zen. Errealera heldu zen 2014an, eta behe mailetatik jarraituz lehen taldera heldu zen. 2024ko azaroan bere kontratua berritu zuen Errealarekin 2030erarte.
 
@@ -58,7 +60,7 @@ public class Futbolaria {
 
 ---
 
-![Jokalaria](https://www.ceroacero.es/img/jogadores/new/66/81/716681_benat_turrientes_20250611225515.png)
+![Jokalaria](./irudia.png)
 
 ### Informazio gehiago
 [Esteka](https://es.wikipedia.org/wiki/Be%C3%B1at_Turrientes)
